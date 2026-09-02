@@ -11,16 +11,23 @@ Profissional em transição de carreira para Tecnologia, unindo mais de 10 anos 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Web & Frontend:** React 18, TypeScript, Vite, Tailwind CSS, HTML5, CSS3.
+- **Web & Frontend:** React 18, TypeScript, Next.js, Vite, Tailwind CSS, HTML5, CSS3.
 - **Mobile & Multiplataforma:** Flutter, Dart, Clean Architecture.
-- **Backend, Cloud & IA:** Python, Firebase (Authentication, Firestore), APIs REST, Google Gemini API.
+- **Backend, Cloud & IA:** Python, Next.js API, Drizzle ORM, Firebase (Authentication, Firestore), APIs REST, Google Gemini API.
 - **Ferramentas:** Git, GitHub, pnpm, VS Code.
 
 ---
 
 ### 🌟 Projetos em Destaque
 
-#### 💰 1. [Planej.ai](https://github.com/Irivania/planejai) — Planejador Financeiro Inteligente
+#### 📊 1. Economia Certa ERP — Sistema de Gestão Comercial *(Em Desenvolvimento)*
+> Sistema comercial integrado voltado para catalogação de produtos, cotações, comparação de fornecedores e otimização inteligente de preços.
+- **Techs:** Next.js, TypeScript, Tailwind CSS, Drizzle ORM.
+- **Diferenciais:**
+  - Estruturação de rotas de API e banco de dados relacional para performance e escalabilidade.
+  - Painéis de controle focados em margens comerciais e regras de precificação competitiva.
+
+#### 💰 2. [Planej.ai](https://github.com/Irivania/planejai) — Planejador Financeiro Inteligente
 > Aplicação web interativa para simulação de orçamentos e diagnóstico financeiro automatizado com suporte de IA.
 - **Techs:** React 18, TypeScript, Vite, Tailwind CSS, API Google Gemini, localStorage.
 - **Diferenciais:**
@@ -28,7 +35,7 @@ Profissional em transição de carreira para Tecnologia, unindo mais de 10 anos 
   - Tratamento resiliente de limites da API (HTTP 429) com diagnóstico de fallback local automático.
   - Interface moderna com suporte ao Dark Mode, formulário guiado em etapas e auto-scroll dinâmico (`useRef`).
 
-#### 🎮 2. [Matemática Divertida](https://github.com/Irivania/matematicadivertida) — App Educativo Gamificado
+#### 🎮 3. [Matemática Divertida](https://github.com/Irivania/matematicadivertida) — App Educativo Gamificado
 > Aplicativo multiplataforma (Android, iOS e Web) focado no aprendizado prático e gamificado de matemática.
 - **Techs:** Flutter, Dart, Firebase (Auth/Firestore), Google Cloud OAuth.
 - **Diferenciais:**
